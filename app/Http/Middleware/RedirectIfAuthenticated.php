@@ -21,10 +21,30 @@ class RedirectIfAuthenticated
 
         foreach ($guards as $guard) {
             if (Auth::guard($guard)->check()) {
-                return redirect(RouteServiceProvider::HOME);
+                if(Auth::user()->type === 0){
+                    return redirect(RouteServiceProvider::HOMESUPER);
+                } elseif(Auth::user()->type === 1) {
+                    return redirect(RouteServiceProvider::HOMEADMIN);
+                } elseif(Auth::user()->type === 2) {
+                    return redirect(RouteServiceProvider::HOMEFOTOG);
+                }
             }
         }
 
         return $next($request);
+        // $guards = empty($guards) ? [null] : $guards;
+
+        // foreach ($guards as $guard) {
+
+        //     if ($guard == "admin" && Auth::guard($guard)->check()) {
+        //         return redirect('/admin/dashboard');
+        //     }
+
+        //     if (Auth::guard($guard)->check()) {
+        //         return redirect(RouteServiceProvider::HOME);
+        //     }
+        // }
+
+        // return $next($request);
     }
 }
