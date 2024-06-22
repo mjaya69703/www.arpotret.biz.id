@@ -1,33 +1,34 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
+<p align="center"><a href="https://arpotret.biz.id target="_blank"><img src="./sample/demo-1.png" width="400" alt="Arpotret Logo"></a></p>
+<small align="center">Preview FrontPage</small>
+<p align="center"><a href="https://arpotret.biz.id target="_blank"><img src="./sample/demo-2.png" width="400" alt="Arpotret Logo"></a></p>
+<small align="center">Preview Dashboard Admin</small>
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="CHANGELOG.MD">ARPotret - Open Source Project | v.1.0a - Changelogs</a>
+<br>
+<span>Latest Update: 22 Juni 2024</span>
+</p>
+<p align="center">
+<a href="https://github.com/mjaya69703"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://facebook.com/kyouma052"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/mjaya69703"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:jaya.kusuma@internal-dev.id"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-## About Laravel
+## About ARPotret - Photography Service By Internal Dev
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Web Arpotret ini adalah website Pemesanan Jasa Fotografi yang Berlisensi Open Source ( MIT License ). Website ini dibangun untuk mempermudah konsumen dalam melakukan pemesanan jasa fotografi serta mempermudah penyedia jasa dalam mengelola produknya. Pada website ini memiliki fitur yang cukup lengkap mulai dari pemesanan secara online, pengelolaan data keuangan, serta masih banyak lagi fitur yang tersedia. Dengan adanya website ini diharapkan dapat mempermudah para penyedia jasa fotografi.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Fitur Lengkap
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Fitur Kelola Halaman Utama Website
+- Fitur Kelola Jenis Jasa Yang Ditawarkan
+- Fitur Kelola Portofolio Fotografer
+- Fitur Kelola Blog / Berita
+- Fitur Pemesanan Melalui Website
+- Fitur Chat Dalam Website
+- Fitur Registrasi / Login / Dashboard Pada Klient Area
+- Fitur
 
 ## Laravel Sponsors
 
