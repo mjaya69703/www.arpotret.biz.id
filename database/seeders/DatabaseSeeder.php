@@ -60,7 +60,7 @@ class DatabaseSeeder extends Seeder
             'site_desc' => 'Menjelajahi dunia dalam satu frame.',
             'site_name' => 'ARPotRet',
             'site_team' => 'Muhamad Jaya Kusuma',
-            'site_link' => 'https://newprojectfoto.dev/',
+            'site_link' => 'https://arpotret.biz.id/',
 
             'site_email' => 'mjaya69703@gmail.com',
             'site_phone' => '+6287848799145',
